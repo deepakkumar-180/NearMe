@@ -152,12 +152,13 @@ Services: Offers online booking services and is known for its free sweets with b
 ```
 
 ## OUTPUT
-![alt text](<Screenshot 2025-09-22 131047.png>)
-![alt text](<Screenshot 2025-09-22 131104.png>)
-![alt text](<Screenshot 2025-09-22 131139.png>)
-![alt text](<Screenshot 2025-09-22 131320.png>)
-![alt text](<Screenshot 2025-09-22 131446.png>)
-![alt text](<Screenshot 2025-09-22 131500.png>)
+<img width="1920" height="1080" alt="Screenshot 2025-09-24 132046" src="https://github.com/user-attachments/assets/e6339d11-ffa9-4d31-b555-85fde60c3050" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-24 131307" src="https://github.com/user-attachments/assets/288428eb-8b0c-437a-bbdd-86aa285cdaa7" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-24 131251" src="https://github.com/user-attachments/assets/8b4b6bf6-0d93-4459-90dd-777b8c60dcfd" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-24 131233" src="https://github.com/user-attachments/assets/524171fd-5dd9-43de-93c6-ba9bc525d492" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-24 131218" src="https://github.com/user-attachments/assets/76ec0e5f-670d-44be-9f28-a592d848930d" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-24 131203" src="https://github.com/user-attachments/assets/b48f4c7e-39ba-407b-bd34-d01454f2aa31" />
+
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
